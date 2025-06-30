@@ -9,7 +9,7 @@ This repository contains:
 These resources are made publicly available to support virtual screening, docking, and pharmacophore-based discovery of new 5-LOX inhibitors.
 
 ## Citation
-If you use this work, please cite: `[Inserisci riferimento al tuo manoscritto o tesi se disponibile]`.
+If you use this work, please cite: `[_insert doi when available_]`.
 
 ## License
 [MIT / CC-BY-4.0 / altro]
